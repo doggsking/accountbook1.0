@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">accountbook</string>
+    <string name="edit">记账</string>
+</resources>
